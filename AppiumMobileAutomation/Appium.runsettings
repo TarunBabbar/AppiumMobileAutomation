@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <TestRunParameters>
+    <Parameter name="PlatformName" value="Android" />
+    <Parameter name="DeviceName" value="Android Emulator" />
+    <Parameter name="AutomationName" value="UiAutomator2" />
+    <Parameter name="AppFileName" value="ApiDemos-debug.apk" />
+    <Parameter name="AppFolder" value="Resources" />
+    <Parameter name="NewCommandTimeout" value="60" />
+    <Parameter name="AppiumServerUrl" value="http://127.0.0.1:4723/wd/hub" />
+  </TestRunParameters>
+</RunSettings>
